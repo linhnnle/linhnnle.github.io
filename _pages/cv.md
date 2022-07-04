@@ -16,10 +16,10 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2020 - Present: Graduate Student Researcher with [Audrey Fan] (https://fanlab.engineering.ucdavis.edu)
+  * UC Davis
+  * Applying advanced machine learning approaches to better underestand physiological and structural contributions to neurodegeneration (e.g. Alzheimer's Disease)
+  * Supervisor: Professor Audrey Fan 
 
 * Fall 2015: Research Assistant
   * Github University
