@@ -16,24 +16,18 @@ Education
 
 Work experience
 ======
-* September 2020 - Present: Graduate Student Researcher with [Audrey Fan] (https://fanlab.engineering.ucdavis.edu)
-  * UC Davis
+* Sept 2020 - Present: Graduate Student Researcher at UC Davis with [Audrey Fan](https://fanlab.engineering.ucdavis.edu)
   * Applying advanced machine learning approaches to better underestand physiological and structural contributions to neurodegeneration (e.g. Alzheimer's Disease)
   * Supervisor: Professor Audrey Fan 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* July 2018 - Jan 2020: Research Assistant at UC San Diego and Salk Institute of Biological Science 
+  * Analyzed and evaluated computerized methods of dystonia severity evaluation 
+  * Supervisor: Dr. David Peterson
+
+<!-- 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+-->
 
 Publications
 ======
