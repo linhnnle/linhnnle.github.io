@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Quantitative BOLD"
+excerpt: "<br/><img src='/images/qBOLD_method.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Oxygen extraction fraction (OEF) is a physiological marker indicating the percent of oxygen extracted from the blood supply of the brain, that directly relates to brain oxygen metabolism. Recent studies have shown that OEF may be a sensitive physiological biomarker to early, and subtle physiological changes before visible damage in AD. We propose to utilize a novel non-invasive magnetic resonance imaging (MRI) method to map brain tissue OEF using quantitative measurements of the blood-oxygenation level dependent (BOLD) MRI signal.
