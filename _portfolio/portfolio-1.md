@@ -1,6 +1,6 @@
 ---
 title: "Quantitative BOLD"
-excerpt: "<br/><img src='/images/qBOLD_method.png'>"
+excerpt: "<br/>A non-invasive magnetic resonance imaging (MRI) method to map brain tissue OEF using quantitative measurements of the blood-oxygenation level dependent (BOLD) MRI signal<img src='/images/qBOLD_method.png'>"
 collection: portfolio
 ---
 
