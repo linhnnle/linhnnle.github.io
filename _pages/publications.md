@@ -17,6 +17,7 @@ author_profile: true
       </h3>
       <p style="line-height:22px; font-size: 18px;" class="mt-0"> Jeanne P.Vu, Elizabeth Cisneros, Ha Yeon Lee, <strong>Linh Le</strong>, Qiyu Chen, Xiaoyan A. Guo, Ryin Rouzbehani, Joseph Jankovic, Stewart Factor, Christopher G. Goetz, Richard L. Barbano, Joel S. Perlmutter, Hyder A. Jinnah, Sarah Pirio Richardson, Glenn T. Stebbins, Rodger Elble, Cynthia L. Comella, David A. Peterson
 
+      <br></p>
       <br>Journal of the Neurological Sciences, March 2022 </p>
     </div>
     <hr class="mt-0 mb-0">
