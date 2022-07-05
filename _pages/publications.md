@@ -8,7 +8,7 @@ author_profile: true
 <div class="col-lg-12">
   <div class="row d-flex flex-wrap align-items-center">
     <div class="col-md-3">
-        <img src="/images/head_tremor_analysis.jpeg" alt="Head tremor in cervical dystonia: Quantifying severity with computer vision">
+        <img src="/images/head_tremor_schematic.jpeg" alt="Head tremor in cervical dystonia: Quantifying severity with computer vision">
     </div>
     <div class="col-md-9">
       <h3>
