@@ -10,4 +10,6 @@ location: "London, UK"
 
 Preliminary results on research project towards a quantitative MRI method to measure brain oxygenation. Quantitative BOLD technique effectively evaluates the tissue hemodynamic parameters (e.g. OEF), and its response to a vasodilation challenge in a reliable manner with induced tissue perfusion changes. 
 
+More information can be found here
+
 Advisor: Audrey Fan 
