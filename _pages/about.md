@@ -21,4 +21,4 @@ I have spent a significant time in the industry as a Neuroimaging Specialist at 
 
 ### 2021
 - Aug: I was invited to present at the [ISMRM endorsed Workshop](https://mriworkshop.mgh.harvard.edu/workshop-program/) on MRI Acquisition and Reconstruction 2021
-- May: My poster was accepted and presented at Biomedical Engineering Graduatee Group Symposium in UC Davis 2021
+- May: My poster was accepted and presented at Biomedical Engineering Graduatee Group (BMEGG) Symposium in UC Davis 2021
