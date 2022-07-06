@@ -1,5 +1,5 @@
 ---
-title: "Convolutional Neural Network using Multi-modal imaging to predict future brain change"
+title: "Convolutional Neural Network using Multi-modal imaging for dementia"
 excerpt: "<br/>Deep learning studies have successfully used image-to-image neural networks, including U-Net architectures, to segment MRI images and quantify brain atrophy based on segmentation maps. <img src='/images/portfolio_deep_learning.png'>"
 collection: portfolio
 ---
