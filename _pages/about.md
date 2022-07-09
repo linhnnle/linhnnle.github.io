@@ -10,7 +10,9 @@ redirect_from:
 
 My name is Linh, and I am a second-year PhD student in the Department of Biomedical Engineering, University of California, Davis, supervised by [Professor Audrey Fan](https://fanlab.engineering.ucdavis.edu). My research focuses on developing advanced imaging techniques to study brain function and improve diagnosis of Alzheimer's Disease. Within this area, I am particularly interested in quantitative methods and application of deep learning in multiple modality imagings. 
 
-I have spent a significant time in the industry as a Neuroimaging Specialist at [Cortechs.ai](https://www.cortechs.ai) (2018-2020). During my undergraduate period, I also worked as a research assistant with [Dr. David Peterson](https://cnc.ucsd.edu) (2018-2020) and a data science research intern at [Prof. Ben Croker's lab](https://www.crokerlab.com/home) (2019). 
+I have spent a significant time in the industry as a Neuroimaging Specialist at [Cortechs.ai](https://www.cortechs.ai) (2018-2020). More information about my work can be found [here](https://linhnnle.github.io/talks/). During my undergraduate period, I also worked as a research assistant with [Dr. David Peterson](https://cnc.ucsd.edu) (2018-2020) to study about head tremor in cervical dystonia using computer vision. I was a co-author in a paper published [here](hhttps://www.sciencedirect.com/science/article/pii/S0022510X22000132). These experiences inspired me to pursue further to develop a technology to solve the issue of neurodegeneration diseases using advanced imaging techniques.
+
+ Besides, I also involved in a research paper as a data science research intern at [Prof. Ben Croker's lab](https://www.crokerlab.com/home) (2019). You can find more about the paper [here](https://www.jci.org/articles/view/147076)
 
 ## News
 
