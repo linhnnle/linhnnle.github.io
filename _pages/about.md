@@ -17,9 +17,10 @@ Before joining UC Davis, I grew up in Vietnam and finished my high school in Eng
 ## News
 
 ### 2022
+- Aug: I will present at Summer Symposium 2022 via the "Translational Health Deata Science Fellowship" with highlights research connducted by [THDS Fellows](https://datalab.ucdavis.edu/2021/12/17/announcing-2022-translational-health-data-science-fellows/)
 - March: I was awarded a Trainee (Educational) Stipend from ISMRM 2022
 - Feb: [Oxygen Extraction Fraction using Quantitative BOLD and cerebral blood flow during vasodilation](https://submissions.mirasmart.com/ISMRM2022/Itinerary/ConferenceMatrixEventDetail.aspx?ses=G-144) and [Comparison of Quantitative BOLD and MR Vascular Fingerprinting for Mapping Brain Oxygenation](https://submissions.mirasmart.com/ISMRM2022/Itinerary/ConferenceMatrixEventDetail.aspx?ses=G-144) were accepted as a poster to ISMRM 2022
-- Jan: I have been awarded a [Translational Health Data Science Fellowship](https://datalab.ucdavis.edu/2021/12/17/announcing-2022-translational-health-data-science-fellows/)
+- Jan: I have been awarded a [Translational Health Data Science Fellowship](https://datalab.ucdavis.edu/2021/12/17/announcing-2022-translational-health-data-science-fellows/) supported by CITRIS, CTSC, and Department of Public Health Sciences in UC Davis. The award was awarded for nine students each year to support research with interdisciplinary fields with a focus on applied human health data science. 
 
 ### 2021
 - Aug: I was invited to present at the [ISMRM endorsed Workshop](https://mriworkshop.mgh.harvard.edu/workshop-program/) on MRI Acquisition and Reconstruction 2021
