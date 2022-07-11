@@ -2,7 +2,7 @@
 title: "Performance Evaluation for Multiple Sclerosis Identification Models Based on MR Imaging and Machine Learning"
 collection: talks
 type: "Poster"
-permalink: /talks/2020-MS-ML-ACTRIMS
+permalink: /talks/2020-02-28-MS-ML-ACTRIMS
 venue: "Americas Committee for Treatment and Research in Multiple Sclerosis (ACTRIMS)"
 date: 2020-02-28
 location: "Florida, USA"
