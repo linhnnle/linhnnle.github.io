@@ -14,4 +14,3 @@ Machine learning models showed high classification performance between normal an
 
 More information can be found here: 
 <strong> [</strong><a href="https://journals.sagepub.com/doi/10.1177/1352458520917097" target="_blank">ABSTRACT</a><strong>] <strong> [</strong><a href="/files/ACTRIMS Poster_FINAL_VER.pdf" target="_blank">POSTER</a><strong>] 
-
