@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/2020-MS-ML-ACTRIMS
 venue: "Americas Committee for Treatment and Research in Multiple Sclerosis (ACTRIMS)"
-date: 2020
+date: 2020-02-28
 location: "Florida, USA"
 ---
 
