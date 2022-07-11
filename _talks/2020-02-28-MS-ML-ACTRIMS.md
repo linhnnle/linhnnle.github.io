@@ -16,4 +16,3 @@ More information can be found here:
 [ABSTRACT](https://journals.sagepub.com/doi/10.1177/1352458520917097):
 <strong> [</strong><a href="/files/ACTRIMS Poster_FINAL_VER.pdf" target="_blank">POSTER</a><strong>] 
 
-Advisor: Audrey Fan 
