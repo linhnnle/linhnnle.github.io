@@ -9,5 +9,3 @@ location: "Virtual Conference"
 ---
 
 I was invited to give a talk on quantitative BOLD modeling at ISMRM-endorsed workshop on MRI Acquisition & Reconstruction
-
-More information can be found here: <strong> [</strong><a href="/files/ISMRM_workshop_qBOLD_2021.pdf" target="_blank">Slides</a><strong>] </strong>
