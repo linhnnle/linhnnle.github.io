@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Linh, and I am currently a third-year PhD student in the Department of Biomedical Engineering at the University of California, Davis, supervised by [Professor Audrey Fan](https://fanlab.engineering.ucdavis.edu) and co-advised by [Professor Jinyi Qi](https://faculty.engineering.ucdavis.edu/qi/). My research focuses on developing advanced imaging techniques to study brain function and improve diagnosis of Alzheimer's Disease. Within this area, I am particularly interested in quantitative methods and the application of deep learning with multiple modality imagings in aging and dementia. 
+My name is Linh, and I am currently a PhD candidate in the Department of Biomedical Engineering at the University of California, Davis, supervised by [Professor Audrey Fan](https://fanlab.engineering.ucdavis.edu) and co-advised by [Professor Jinyi Qi](https://faculty.engineering.ucdavis.edu/qi/). My research focuses on developing advanced imaging techniques to study brain function and improve diagnosis of Alzheimer's Disease. Within this area, I am particularly interested in quantitative methods and the application of deep learning with multiple modality imagings in aging and dementia. 
 
 Before joining UC Davis, I grew up in Vietnam and finished my high school in England, UK. Then, I moved to America in 2014 to study and received my Bachelor's degree in Science in Bioengineering at the University of California, San Diego. 
 
@@ -18,9 +18,16 @@ During my undergraduate time, I have spent a significant time in the industry as
 
 ## News
 
+### 2025
+- July: I presented my poster at AAIC (in Toronto) for my work on "Identifying abnormal brain atrophy in Alzheimer’s Disease using deep learning-based MRI"
+
+### 2024
+- May: I presented my poster at ISMRM (in Singapore) and AAIC (in Philadelphia) for my work on "Deep learning-based estimation of future brain atrophy using baseline MRI and PET"
+- March: I was awarded a Biomedical Engineering Group (BMEGG) Travel Award   
+
 ### 2023
-- July: I will present my poster at AAIC (in Amsterdam) 
-- June: I will have an oral presentation at ISMRM (in Toronto) for my work on "Oxygen extraction fraction mapping between normal cognition and mild cognitive impairment in an elderly cohort using quantitative BOLD" and a poster presentation on "Quantitative BOLD with Variational Bayesian inference: model comparisons with Monte Carlo simulations and in an elderly cohort"
+- July: I presented my poster at AAIC (in Amsterdam) 
+- June: I had an oral presentation at ISMRM (in Toronto) for my work on "Oxygen extraction fraction mapping between normal cognition and mild cognitive impairment in an elderly cohort using quantitative BOLD" and a poster presentation on "Quantitative BOLD with Variational Bayesian inference: model comparisons with Monte Carlo simulations and in an elderly cohort"
 - Feb: I was awarded a Trainee (Educational) stipend from ISMRM 
 
 ### 2022
